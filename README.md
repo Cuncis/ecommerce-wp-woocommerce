@@ -6,7 +6,7 @@ A WordPress-based e-commerce landing page for a backpack online store. Built wit
 
 ## Preview
 
-![screenshot of full landing page](screenshots/landing-page-full.png)
+![screenshot of full landing page]([screenshots/landing-page-full.png](https://karangreksa.site/wp-content/uploads/2024/11/ksnip_20241126-110527.png))
 
 ---
 
